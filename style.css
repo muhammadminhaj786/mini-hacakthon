@@ -1,0 +1,180 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.signup{
+    height: 540px;
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* overflow-x: hidden;
+    overflow-y: scroll; */
+    margin-top: 20px;
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+h5{
+    text-align: center;
+}
+input{
+    height: 50px;
+    width: 300px;
+    margin: 10px 20px;
+}
+#userType{
+    height: 55px;
+    border: 1px solid black;
+    width: 300px;
+    
+}
+.btn1{
+    width: 100%;
+    height: 40px;
+    background-color: #6f42c1;
+    border-radius: 5px;
+    margin: 1px auto;
+}
+a{
+    color: #6f42c1;
+    text-decoration: none;
+}
+
+/* designing on login */
+.login{
+    height: 350px;
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 30px;
+
+}
+
+.my-h4{
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+
+}
+.logo{
+    width: 200px;
+}
+.cart-img{
+    width: 140px;
+    height: 60px;
+}
+.cart-img img{
+    height: 100%;
+    width: 100%;
+}
+
+.nameandimg img{
+    border-radius: 50%;
+}
+#myimgid{
+    height: 90px;
+    border-radius: 10px soilid black;
+    border-radius: 50%;
+}
+
+.nameandimg p{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.nameandimg{
+    display: flex;
+    align-items: center;
+    margin: 5px 0 10px 0;
+}
+.dropdown{
+    width: 250px;
+    height: 400px;
+    box-shadow: 0 0 10px grey;
+    padding: 10px;
+    background-color: white;
+    display: none;
+    position: absolute;
+    top: 60px;
+}
+
+.dropdown ul li{
+    display: flex;
+    padding: 5btpx;
+    /* margin-top: 5px; */
+    cursor: pointer;
+}
+
+.dropdown ul li:hover{
+    background-color: #c7dcff ;
+}
+
+
+.dropdown ul li i{
+    color: black;
+    font-size: 17px;
+}
+
+.dropdown ul li p{
+    margin-left: 10px;
+    font-size: 17px;
+}
+.blackdiv{
+    display: block;
+}
+.nameDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 200px; */
+}
+
+
+.navbar{
+    background-color: #6f42c1;
+}
+.navbar-brand {
+    color: white;
+}
+
+.btn2{
+    background-color: #6f42c1;
+    color: white;
+    border: none;
+    width: 180px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.inp{
+    width: 100%;
+    margin-left: 0%;
+}
+
+.blogForm{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.hidden{
+    display: none;
+}
+
+.btns a{
+    margin-left: 10px;
+}
+.show{
+    display: block;
+}
+.color{
+    color: black;
+}
+.card{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.my-border{
+    border: 1px solid black;
+}
